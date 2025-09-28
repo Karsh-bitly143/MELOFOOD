@@ -1,6 +1,5 @@
-# 🍽️ Dish Dash! – Food Delivery App  
-
-**Dish Dash!** is a learning project built in **React Native** that lets users:  
+# 🍽️ MELOFOOD! – Food Delivery App  
+ is a learning project built in **React Native** that lets users:  
 - 📖 Browse menus  
 - 🛵 Place orders for delivery or pickup  
 - 👤 Manage their account via **Firebase Authentication**  
